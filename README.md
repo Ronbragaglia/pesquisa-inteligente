@@ -50,6 +50,44 @@ Ou, se estiver no **Google Colab**, basta executar as células do notebook.
 3. **Escolha o número máximo de iterações**
 4. **Clique em "Executar" e aguarde a IA gerar o relatório!**
 
+🎓 Guia Passo a Passo para Configurar as Credenciais
+
+1️⃣ Criando a Chave da OpenRouter API
+
+Acesse OpenRouter e faça login.
+
+Vá até Dashboard > API Keys.
+
+Gere uma nova chave e copie o código.
+
+Cole no arquivo .env como:
+
+OPENROUTER_API_KEY=SUA_CHAVE_AQUI
+
+2️⃣ Criando a Chave da SERPAPI
+
+Acesse SERPAPI e crie uma conta gratuita.
+
+No painel, vá até API Keys e copie sua chave.
+
+Cole no arquivo .env como:
+
+SERPAPI_API_KEY=SUA_CHAVE_AQUI
+
+3️⃣ Criando a Chave da Jina AI API
+
+Acesse Jina AI e cadastre-se.
+
+Vá até API Keys e gere uma nova chave.
+
+Copie e cole no .env:
+
+JINA_API_KEY=SUA_CHAVE_AQUI
+
+Agora seu ambiente está pronto para rodar o código! 🚀
+
+
+
 ## 📌 Exemplo de Uso
 Se você deseja pesquisar sobre "O impacto da IA na Medicina", o sistema irá:
 1. Criar **consultas otimizadas** para encontrar boas fontes.
