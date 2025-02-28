@@ -66,5 +66,5 @@ Se você deseja pesquisar sobre "O impacto da IA na Medicina", o sistema irá:
 Este projeto está sob a licença **MIT** – sinta-se livre para contribuir e compartilhar! 😃
 
 ---
-💻 **Desenvolvido por [SEU NOME](https://github.com/Ronbragaglia)** 🚀
+💻 **Desenvolvido por [Ronbragaglia](https://github.com/Ronbragaglia)** 🚀
 
